@@ -1,5 +1,4 @@
-Proyecto final para la asignatura de Programación (1ºDAW, 2018)
-###############################################################
+# Proyecto final para la asignatura de Programación (1ºDAW, 2018)
 
 Aplicación Java para gestionar series vistas o por ver, con sus temporadas y episodios para distintos usuarios.
 
